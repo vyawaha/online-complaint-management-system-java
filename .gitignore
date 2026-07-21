@@ -1,0 +1,42 @@
+# Java compiled files
+*.class
+
+# Build folders
+target/
+bin/
+out/
+
+# Maven files
+.mvn/
+
+# IDE files
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Runtime generated data
+data/*.txt
+
+# Test generated files
+test-output/
