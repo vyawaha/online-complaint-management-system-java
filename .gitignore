@@ -40,3 +40,6 @@ data/*.txt
 
 # Test generated files
 test-output/
+
+# Temporary Java test files
+src/Test*.java
